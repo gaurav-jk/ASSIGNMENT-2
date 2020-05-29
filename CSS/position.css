@@ -1,0 +1,132 @@
+
+#header {
+    position: fixed;
+    text-align: center;
+    z-index: 1; 
+    padding: 2px;
+    background: lightsalmon;
+    width: 100%;
+    top: 0px;
+    left: 0px;
+}
+
+
+body {
+    background-color: lightsalmon;
+   }
+
+
+  nav{
+    max-width: 100%;
+    background: lightskyblue;
+    margin: 5px auto;
+    padding: 10px;
+    top: 120px;
+    z-index: 1;
+    text-align: center;
+}
+div{
+    max-width: 100%;
+    background: lightskyblue;
+    margin: 5px auto;
+    padding: 10px;
+    top: 120px;
+    z-index: 1;
+    text-align: center;
+}
+body {
+    background-image: url("../image/ezgif.com-video-to-gif.gif");
+    background-size: fixed;
+     padding: 200px; 
+    
+     }
+     #Cricket{
+        background-color: lightsteelblue;
+        width: 300px;
+        border: 3px solid rgb(9, 109, 67);
+        padding: 10px 5px;
+        margin: 30px 50px 40px 40px ;
+        height: 350px;
+        text-align: center;
+        display: inline-block;
+        overflow: auto;
+    }
+    
+    #Cricket h2{
+        color: white;
+        text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+      }
+    
+    
+    
+    .FootBall{
+        background-color: lightsteelblue;
+        width: 300px;
+        border: 3px solid rgb(9, 109, 67);
+        padding: 10px 5px;
+        margin: 30px 50px 40px 40px;
+        height: 350px;
+        text-align: center;
+        display: inline-block;
+        overflow: auto;
+        
+    }
+    
+    .FootBall h2{
+            color: white;
+            text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+          }
+    
+  
+    
+    
+    .Tennis{
+        background-color: lightsteelblue;
+        width: 300px;
+        border: 3px solid rgb(9, 109, 67);
+        padding: 10px 5px;
+        margin: 30px 50px 40px 40px ;
+        height: 350px;
+        text-align: center;
+        display: inline-block;
+        overflow: auto;
+        }
+    
+        .Tennis h2{
+            color: white;
+            text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+          }
+          footer{
+            color: white;
+            max-width: 100%;
+            background: rgb(206, 98, 55);
+            margin: 0px auto;
+            padding: 15px;
+            position: sticky;
+            top: 75px;
+        }
+        #ContactSection{
+            text-align: center;
+            text-decoration: underline;
+        }
+        
+        .contact-method{
+            border: 2px solid rgb(13, 197, 44);
+            white-space: nowrap;
+            display: inline-block;
+            width: 40%;
+            height: 10%;
+            
+        }
+        
+        .contact-method h3{
+            display: inline;
+            text-decoration: underline;
+        }
+        
+        .contact-method p{
+            display: inline-block;
+        }
+ 
+        
+        
